@@ -1,6 +1,6 @@
 ---
 title: Lehan Wang
-role: PhD Student
+role: PhD Candidate
 bio: 
 interests:
   - Multimodal LLM
