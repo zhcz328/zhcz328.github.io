@@ -3,7 +3,7 @@ title: Lehan Wang
 role: PhD Student
 bio: 
 interests:
-  - Multimodal Large Language Model
+  - Multimodal LLM
   - Agentic Reinforcement Finetuning
   - Multimodal Learning
   - Foundation Model
