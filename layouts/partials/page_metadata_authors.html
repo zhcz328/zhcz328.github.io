@@ -1,13 +1,6 @@
 {{- with .Params.authors -}}
   {{- range $index, $author := . -}}
     {{- if gt $index 0 }}, {{ end -}}
-    {{- $author_name := $author -}}
-    {{- $author_page := site.GetPage (printf "/authors/%s" (urlize $author)) -}}
-    {{- if $author_page -}}
-      {{- $author_name = $author_page.Title -}}
-      <a href="{{ $author_page.RelPermalink }}">{{ $author_name }}</a>
-    {{- else -}}
-      <span>{{ $author_name }}</span>
-    {{- end -}}
+    <span>{{ $author }}</span>
   {{- end -}}
 {{- end -}}
