@@ -21,11 +21,11 @@ content:
 
   # Filter toolbar (optional).
   filter_button:
-  - name: Featured Publications
-    tag: featured
-
   - name: All
     tag: '*'
+
+  - name: Featured Publications
+    tag: featured
 
 design:
   columns: '1'
