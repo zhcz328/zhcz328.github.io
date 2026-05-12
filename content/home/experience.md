@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.hnu.edu.cn/'
     company_logo:
     location: Changsha, China
-    date_start: '2024-09-01'
+    date_start: '2022-09-01'
     date_end: ''
     description: |
       Research focuses on fetal ultrasound AI-assisted diagnosis and medical multimodal large language models.
