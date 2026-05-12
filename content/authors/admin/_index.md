@@ -31,13 +31,7 @@ education:
   courses:
     - course: Ph.D. in Computer Science and Technology
       institution: Hunan University
-      year: 2024 - Present
-    - course: M.S. in Computer Science and Technology
-      institution: Hunan University
-      year: 2024
-    - course: B.Eng. in Data Science and Big Data Technology
-      institution: Minzu University of China
-      year: 2022
+      year: 2022 - Present
 
 email: ""
 superuser: true
@@ -45,6 +39,4 @@ highlight_name: true
 ---
 
 I am a Ph.D. student in Computer Science and Technology at Hunan University. My research focuses on fetal ultrasound AI-assisted diagnosis, medical multimodal large language models, medical image analysis, image quality assessment, and brain-computer interfaces.
-
-Previously, I received my M.S. degree in Computer Science and Technology from Hunan University in 2024, and my B.Eng. degree in Data Science and Big Data Technology from Minzu University of China in 2022.
 
