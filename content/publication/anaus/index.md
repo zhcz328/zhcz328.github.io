@@ -2,13 +2,13 @@
 title: "Anatomy-Anchored Self-Supervision: Distilling Vision Foundation Models for Invariant Ultrasound Representation"
 authors:
 - admin
-- Y. Wang
-- J. Lin
-- F. Wang
-- H. Wang
-- L. Zhao
-- S. Li
-- K. Li
+- Yijun Wang
+- Jianxin Lin
+- Fang Wang
+- Hao Wang
+- Li Zhao
+- Shengli Li
+- Kenli Li
 date: "2026-01-01T00:00:00Z"
 doi: ""
 
@@ -25,14 +25,12 @@ tags:
 - Self-Supervised Learning
 - Foundation Models
 
-featured: false
+featured: true
 
-links:
-- name: Google Scholar
-  url: https://scholar.google.com/citations?user=HsJamBgAAAAJ&hl=zh-CN
+links: []
 
 url_pdf: ''
-url_code: 'https://github.com/zhcz328/'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''

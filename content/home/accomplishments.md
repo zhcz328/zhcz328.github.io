@@ -24,6 +24,14 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2025-01-01"
+  description: "Global-leading AI + ultrasound technology solution."
+  organization: Challenge Cup
+  organization_url: ""
+  title: "First Prize, 19th Challenge Cup Artificial Intelligence+ Special Competition"
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2025-01-01"
   description: ""
   organization: Hunan University
   organization_url: https://www.hnu.edu.cn/

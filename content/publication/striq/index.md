@@ -2,13 +2,13 @@
 title: "Subspace-Guided Semantic and Topological Invariant Registration for Annotation-Free Ultrasound Plane Quality Control"
 authors:
 - admin
-- J. Lin
-- F. Wang
-- C. Jiang
-- G. Tan
-- Z. Zhou
-- S. Li
-- K. Li
+- Jianxin Lin
+- Fang Wang
+- Chao Jiang
+- Guanghua Tan
+- Zhen Zhou
+- Shengli Li
+- Kenli Li
 date: "2026-01-01T00:00:00Z"
 doi: ""
 
@@ -25,14 +25,12 @@ tags:
 - Quality Control
 - Registration
 
-featured: false
+featured: true
 
-links:
-- name: Google Scholar
-  url: https://scholar.google.com/citations?user=HsJamBgAAAAJ&hl=zh-CN
+links: []
 
 url_pdf: ''
-url_code: 'https://github.com/zhcz328/'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
