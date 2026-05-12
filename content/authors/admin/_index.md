@@ -32,6 +32,9 @@ education:
     - course: Ph.D. in Computer Science and Technology
       institution: Hunan University
       year: 2022 - Present
+    - course: B.Eng. in Data Science and Big Data Technology
+      institution: Minzu University of China
+      year: 2018 - 2022
 
 email: ""
 superuser: true
