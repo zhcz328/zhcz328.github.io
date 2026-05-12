@@ -39,7 +39,7 @@ url_source: ''
 url_video: ''
 
 image:
-  caption: '* Equal contribution.'
+  caption: '† Equal contribution.'
   focal_point: Smart
   preview_only: false
 ---
