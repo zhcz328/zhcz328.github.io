@@ -22,23 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Visiting Intern
-    company: The Hong Kong University of Science and Technology
-    company_url: 'https://join.hkust.edu.hk/admissions/visiting'
-    company_logo: 
-    location: Hong Kong SAR, China
-    date_start: '2023-01-15'
-    date_end: '2023-08-31'
-    description: 
-  - title: Research Intern
-    company: Research Center for Social Computing and Information Retrieval (SCIR)
-    company_url: 'http://ir.hit.edu.cn/'
-    company_logo: 
-    location: Harbin, China
-    date_start: '2020-09-01'
-    date_end: '2022-08-31'
-    description: 
+  - title: Ph.D. Student
+    company: Hunan University
+    company_url: 'https://www.hnu.edu.cn/'
+    company_logo:
+    location: Changsha, China
+    date_start: '2024-09-01'
+    date_end: ''
+    description: |
+      Research focuses on fetal ultrasound AI-assisted diagnosis and medical multimodal large language models.
 
+  - title: M.S. Student
+    company: Hunan University
+    company_url: 'https://www.hnu.edu.cn/'
+    company_logo:
+    location: Changsha, China
+    date_start: '2022-09-01'
+    date_end: '2024-06-30'
+    description: |
+      Research focused on image quality assessment and brain-computer interfaces.
+
+  - title: Undergraduate Student
+    company: Minzu University of China
+    company_url: ''
+    company_logo:
+    location: Beijing, China
+    date_start: '2018-09-01'
+    date_end: '2022-06-30'
+    description: |
+      Major in Data Science and Big Data Technology.
 
 design:
   columns: '2'

@@ -1,0 +1,49 @@
+---
+title: "Anatomy-Anchored Self-Supervision: Distilling Vision Foundation Models for Invariant Ultrasound Representation"
+authors:
+- admin
+- Y. Wang
+- J. Lin
+- F. Wang
+- H. Wang
+- L. Zhao
+- S. Li
+- K. Li
+date: "2026-01-01T00:00:00Z"
+doi: ""
+
+publication_types: ["1"]
+publication: "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2026"
+publication_short: "MICCAI 2026"
+
+abstract: "This work proposes AnaUS, an anatomy-level self-supervised pretraining framework for ultrasound representation learning."
+summary: "Anatomy-anchored self-supervised learning for invariant ultrasound representation."
+
+tags:
+- Medical AI
+- Ultrasound
+- Self-Supervised Learning
+- Foundation Models
+
+featured: false
+
+links:
+- name: Google Scholar
+  url: https://scholar.google.com/citations?user=HsJamBgAAAAJ&hl=zh-CN
+
+url_pdf: ''
+url_code: 'https://github.com/zhcz328/'
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+image:
+  caption: ''
+  focal_point: Smart
+  preview_only: false
+---
+
+AnaUS discovers unlabeled anatomical structures with an LP-SAM driven latent prompt engine and combines anatomy disentanglement alignment with core-region prediction for robust ultrasound representation learning.

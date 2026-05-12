@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Interpretable Bilingual Multimodal Large Language Model for Diverse Biomedical Tasks"
 
 # Authors

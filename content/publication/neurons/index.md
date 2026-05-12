@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "NEURONS: Emulating the Human Visual Cortex Improves Fidelity and Interpretability in fMRI-to-Video Reconstruction"
 
 # Authors

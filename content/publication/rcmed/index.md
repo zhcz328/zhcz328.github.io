@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Reinforced Correlation Between Vision and Language for Precise Medical AI Assistant"
 
 # Authors

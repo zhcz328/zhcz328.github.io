@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Hunan University'
+    description: 'Chunzheng Zhu is a Ph.D. student at Hunan University, focusing on medical AI, fetal ultrasound diagnosis, multimodal large language models, image quality assessment, and brain-computer interfaces.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/zhcz328/zhcz328.github.io'
     content_dir: content
     branch: master
   avatar:

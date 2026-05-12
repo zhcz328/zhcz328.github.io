@@ -1,49 +1,50 @@
 ---
-title: Lehan Wang
-role: PhD Candidate
-bio: 
+title: Chunzheng Zhu
+role: Ph.D. Student
+bio:
 interests:
-  - Multimodal LLM
-  - Agentic Reinforcement Finetuning
-  - Multimodal Learning
-  - Foundation Model
+  - Medical Multimodal Large Language Models
+  - Fetal Ultrasound AI-assisted Diagnosis
   - Medical Image Analysis
+  - Image Quality Assessment
+  - Brain-Computer Interface
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:lwangdk@connect.ust.hk
+    link: mailto:zhuchzh@hnu.edu.cn
   - icon: github
     icon_pack: fab
-    link: https://github.com/luxuriant0116
+    link: https://github.com/zhcz328/
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=qq-o-JoAAAAJ&hl=en
-  - icon: twitter
-    icon_pack: fab
-    link: https://x.com/lehan_W
+    link: https://scholar.google.com/citations?user=HsJamBgAAAAJ&hl=zh-CN
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/lehan-wang-34048523b/
+    link: https://www.linkedin.com/in/chunzheng-zhu-938593298/
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf
 organizations:
-  - name: The Hong Kong University of Science and Technology
-    url: https://hkust.edu.hk/
+  - name: Hunan University
+    url: https://www.hnu.edu.cn/
 education:
   courses:
-    - course: Ph.D. in Electronic & Computer Engineering
-      institution: The Hong Kong University of Science and Technology
-      year: 2027 (expected)
-    - course: B.Eng. in Artificial Intelligence
-      institution: Harbin Institute of Technology
-      year: 2023
+    - course: Ph.D. in Computer Science and Technology
+      institution: Hunan University
+      year: 2024 - Present
+    - course: M.S. in Computer Science and Technology
+      institution: Hunan University
+      year: 2024
+    - course: B.Eng. in Data Science and Big Data Technology
+      institution: Minzu University of China
+      year: 2022
 
 email: ""
 superuser: true
 highlight_name: true
 ---
 
+I am a Ph.D. student in Computer Science and Technology at Hunan University. My research focuses on fetal ultrasound AI-assisted diagnosis, medical multimodal large language models, medical image analysis, image quality assessment, and brain-computer interfaces.
 
-I am a PhD student supervised by [Prof. Xiaomeng LI](https://xmengli.github.io/) at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). Previously, I earned my Bachelor’s Degree at [Harbin Institute of Technology](http://www.hit.edu.cn/) majoring in Artificial Intelligence. I was fortunate to intern at [Research Center for Social Computing and Information Retrieval (SCIR)](http://ir.hit.edu.cn/) under the guidance of [Dr. Libo Qin](https://scholar.google.co.jp/citations?user=8lVpK1QAAAAJ&hl) and [Prof. Wanxiang Che](http://ir.hit.edu.cn/~car/).
+Previously, I received my M.S. degree in Computer Science and Technology from Hunan University in 2024, and my B.Eng. degree in Data Science and Big Data Technology from Minzu University of China in 2022.
 

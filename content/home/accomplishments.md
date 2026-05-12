@@ -9,8 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Awards' 
+title: 'Awards'
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -24,46 +23,85 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
-  date_start: "2023-06-10"
+  date_start: "2025-01-01"
   description: ""
-  organization: Harbin Institute of Technology
-  organization_url: http://www.hit.edu.cn/
-  title: Best Bachelor Thesis Award
+  organization: Hunan University
+  organization_url: https://www.hnu.edu.cn/
+  title: Outstanding Graduate Student, Hunan University, 2024-2025
   url: ""
 - certificate_url:
   date_end: ""
-  date_start: "2023-04-07"
+  date_start: "2024-01-01"
   description: ""
-  organization: University Grants Committee, Hong Kong
-  organization_url: https://cerg1.ugc.edu.hk/hkpfs/index.html
-  title: Hong Kong PhD Fellowship
+  organization: Hunan University
+  organization_url: https://www.hnu.edu.cn/
+  title: Outstanding Graduate Student, Hunan University, 2023-2024
   url: ""
-# - certificate_url:
-#  date_end: ""
-#  date_start: "2022-12-01"
-#  description: ""
-#  organization: Suzhou Industrial Park
-#  organization_url: 
-#  title: Suzhou Industrial Park Scholarship
-#  url: ""
 - certificate_url:
   date_end: ""
-  date_start: "2021-12-01"
+  date_start: "2023-01-01"
   description: ""
-  organization: Ministry of Education of the People's Republic of China
-  organization_url: 
-  title: National Scholarship
+  organization: MathorCup
+  organization_url: ""
+  title: Second Prize, MathorCup Big Data Challenge for Graduate Students
   url: ""
-# - certificate_url:
-#  date_end: ""
-#  date_start: "2020-12-01"
-#  description: ""
-#  organization: Kwang-Hua Education Foundation
-#  organization_url: 
-#  title: Kwang-Hua Scholarship
-#  url: ""
-
+- certificate_url:
+  date_end: ""
+  date_start: "2023-01-01"
+  description: ""
+  organization: China Graduate Mathematical Contest in Modeling
+  organization_url: ""
+  title: Third Prize, China Graduate Mathematical Contest in Modeling
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2022-01-01"
+  description: ""
+  organization: Minzu University of China
+  organization_url: ""
+  title: First-Class Academic Scholarship, Minzu University of China, 2021-2022
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2021-01-01"
+  description: ""
+  organization: Minzu University of China
+  organization_url: ""
+  title: Second-Class Academic Scholarship, Minzu University of China, 2020-2021
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2020-01-01"
+  description: ""
+  organization: Mathematical Contest in Modeling
+  organization_url: ""
+  title: Meritorious Winner, Mathematical Contest in Modeling
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2020-01-01"
+  description: ""
+  organization: China Computer Design Competition
+  organization_url: ""
+  title: Second Prize, Beijing Division, China Computer Design Competition
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2020-01-01"
+  description: ""
+  organization: Contemporary Undergraduate Mathematical Contest in Modeling
+  organization_url: ""
+  title: Second Prize, Beijing Division, CUMCM
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2019-01-01"
+  description: ""
+  organization: Beijing Undergraduate Animation Design Competition
+  organization_url: ""
+  title: Second Prize, Beijing Undergraduate Animation Design Competition
+  url: ""
 
 design:
-  columns: '2' 
+  columns: '2'
 ---

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "VAMPIRE: Uncovering Vessel Directional and Morphological Information from OCTA Images for Cardiovascular Disease Risk Factor Prediction"
 
 # Authors
