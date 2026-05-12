@@ -6,7 +6,7 @@ authors:
 - Junyu Jiang
 - Jianxin Lin
 - Yijun Wang
-date: "2026-04-01T00:00:00Z"
+date: "2026-05-12T00:00:00Z"
 doi: "10.48550/arXiv.2604.26283"
 
 publication_types: ["3"]
