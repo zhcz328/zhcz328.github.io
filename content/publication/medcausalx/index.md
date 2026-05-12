@@ -1,8 +1,8 @@
 ---
 title: "MedCausalX: Adaptive Causal Reasoning with Self-Reflection for Trustworthy Medical Vision-Language Models"
 authors:
-- 'Jianxin Lin*'
-- 'Chunzheng Zhu*'
+- 'Jianxin Lin∗'
+- 'Chunzheng Zhu∗'
 - Peter J. Kneuertz
 - Yunfei Bai
 - Yuan Xue
