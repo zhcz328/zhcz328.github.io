@@ -1,6 +1,10 @@
 {{- with .Params.authors -}}
   {{- range $index, $author := . -}}
     {{- if gt $index 0 }}, {{ end -}}
-    <span>{{ $author }}</span>
+    {{- if eq $author "admin" -}}
+      <span>Chunzheng Zhu</span>
+    {{- else -}}
+      <span>{{ $author }}</span>
+    {{- end -}}
   {{- end -}}
 {{- end -}}
