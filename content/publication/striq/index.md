@@ -3,10 +3,10 @@ title: "Subspace-Guided Semantic and Topological Invariant Registration for Anno
 authors:
 - admin
 - Jianxin Lin
-- Fang Wang
-- Chao Jiang
+- Feng Wang
+- Cheng Jiang
 - Guanghua Tan
-- Zhen Zhou
+- Zhenyu Zhou
 - Shengli Li
 - Kenli Li
 date: "2026-05-10T00:00:00Z"
