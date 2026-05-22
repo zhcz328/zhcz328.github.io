@@ -13,7 +13,7 @@ date: "2026-05-10T00:00:00Z"
 doi: ""
 
 publication_types: ["1"]
-publication: "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2026"
+publication: "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)"
 publication_short: "MICCAI 2026"
 
 abstract: "This work proposes STRIQ, a registration-driven annotation-free ultrasound plane quality control framework with latent registration alignment and orthogonal knowledge subspaces."

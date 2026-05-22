@@ -13,7 +13,7 @@ date: "2026-05-11T00:00:00Z"
 doi: ""
 
 publication_types: ["1"]
-publication: "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), 2026"
+publication: "International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)"
 publication_short: "MICCAI 2026"
 
 abstract: "This work proposes AnaUS, an anatomy-level self-supervised pretraining framework for ultrasound representation learning."
