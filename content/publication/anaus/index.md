@@ -29,8 +29,8 @@ featured: true
 
 links: []
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/abs/2605.25402'
+url_code: 'https://github.com/zhcz328/ANAUS'
 url_dataset: ''
 url_poster: ''
 url_project: ''
