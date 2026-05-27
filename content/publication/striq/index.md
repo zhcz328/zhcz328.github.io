@@ -27,9 +27,11 @@ tags:
 
 featured: true
 
-links: []
+links:
+- name: Paper
+  url: https://arxiv.org/abs/2605.25396
 
-url_pdf: 'https://arxiv.org/abs/2605.25396'
+url_pdf: ''
 url_code: 'https://github.com/zhcz328/STRIQ'
 url_dataset: ''
 url_poster: ''
