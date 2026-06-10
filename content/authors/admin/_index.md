@@ -20,7 +20,8 @@ social:
     link: https://scholar.google.com/citations?user=HsJamBgAAAAJ&hl=zh-CN
   - icon: weixin
     icon_pack: fab
-    label: "WeChat: zhchzh183"
+    label: "WeChat"
+    link: "#wechat"
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf
@@ -42,4 +43,13 @@ highlight_name: true
 ---
 
 I am a Ph.D. student in Computer Science and Technology at Hunan University. My research focuses on fetal ultrasound AI-assisted diagnosis, medical multimodal large language models, medical image analysis, image quality assessment, and brain-computer interfaces.
+
+<a id="wechat"></a>
+**WeChat**
+
+扫码添加微信（将你的二维码图片放到 `static/uploads/wechat_qr.png`），或手动添加：`zhchzh183`。
+
+<p align="center">
+  <img src="/uploads/wechat_qr.png" alt="WeChat QR" class="author-wechat-qr" />
+</p>
 
