@@ -36,3 +36,7 @@ body {
     border-radius: 8px;
     box-shadow: 0 2px 6px rgba(0,0,0,0.12);
 }
+
+/* Experience timeline tweaks */
+.experience-timeline .timeline-card { transition: transform .28s ease, box-shadow .28s ease; }
+.experience-timeline .timeline-card:hover { transform: translateY(-6px); box-shadow:0 18px 40px rgba(15,23,42,0.12); }

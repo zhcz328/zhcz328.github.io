@@ -44,4 +44,6 @@ experience:
 
 design:
   columns: '2'
+
+{{< experience_timeline >}}
 ---
