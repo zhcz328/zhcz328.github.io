@@ -20,7 +20,7 @@ social:
     link: https://scholar.google.com/citations?user=HsJamBgAAAAJ&hl=zh-CN
   - icon: weixin
     icon_pack: fab
-    link: 'weixin://zhchzh183'
+    link: 'WeChat: zhchzh183'
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf
