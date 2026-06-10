@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 30
 
 title: Experience
 subtitle:
@@ -22,6 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Native MLLM, Rubric Bench
+    company: ByteDance Research Intern
+    company_url: ''
+    company_logo:
+    location: ''
+    date_start: '2026-03-01'
+    date_end: ''
+    description: |
+      Native MLLM pretraining to post-training, token compression, rubric benchmark.
+
+  - title: AI-Assisted Fetal Ultrasound Diagnosis
+    company: National Supercomputing Center in Changsha
+    company_url: ''
+    company_logo:
+    location: Changsha, China
+    date_start: '2023-09-01'
+    date_end: '2026-03-01'
+    description: |
+      Large classification models, disease detection, self-supervised learning, continual learning, medical multimodal large language models.
+
   - title: Ph.D. Student
     company: Hunan University
     company_url: 'https://www.hnu.edu.cn/'
