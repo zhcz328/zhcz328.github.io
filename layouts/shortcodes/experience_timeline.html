@@ -8,9 +8,11 @@
   {{- $logo := "" -}}
   {{- with $e.company_logo -}}
     {{- if hasPrefix "/" . -}}
-      {{- $logo = . -}}
+      {{- $logo = . | relURL -}}
+    {{- else if in . "." -}}
+      {{- $logo = printf "/%s" . | relURL -}}
     {{- else -}}
-      {{- $logo = printf "/media/icons/brands/%s.svg" . -}}
+      {{- $logo = printf "/media/icons/brands/%s.svg" . | relURL -}}
     {{- end -}}
   {{- end -}}
   <article class="timeline-item{{ if eq $i 0 }} is-current{{ end }}">
