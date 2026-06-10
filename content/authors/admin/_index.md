@@ -6,7 +6,6 @@ interests:
   - Multimodal Large Language Models
   - Reinforcement Learning
   - Medical Image Analysis
-  - Fetal Ultrasound AI-assisted Diagnosis
   - Image Quality Assessment
   - Brain-Computer Interface
 social:
