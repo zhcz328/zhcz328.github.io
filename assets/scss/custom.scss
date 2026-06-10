@@ -56,7 +56,7 @@ body {
 }
 
 #about > .container {
-    transform: translateY(-0.45rem);
+    transform: translateY(-0.7rem);
 }
 
 /* Experience section */
@@ -66,7 +66,7 @@ body {
     gap: 1rem;
     max-width: 920px;
     margin: 0 auto;
-    transform: translateY(-0.45rem);
+    transform: translateY(-0.7rem);
 }
 
 .experience-timeline::before {
@@ -221,12 +221,12 @@ body {
 
 @media (max-width: 720px) {
     #about > .container {
-        transform: translateY(-0.25rem);
+        transform: translateY(-0.4rem);
     }
 
     .experience-timeline {
         gap: .9rem;
-        transform: translateY(-0.25rem);
+        transform: translateY(-0.4rem);
     }
 
     .experience-timeline::before {
