@@ -1,33 +1,43 @@
-{{/* Shortcode: experience_timeline
-   Renders a simple timeline from data/experience.toml
-*/}}
 <div class="experience-timeline">
-  <div class="timeline-line" aria-hidden="true"></div>
   {{- $items := site.Data.experience.experience -}}
   {{- range $i, $e := $items -}}
-  <article class="timeline-item">
-    <div class="timeline-item-date">{{ if $e.date_start }}{{ (time.Format (time.Parse "2006-01-02" $e.date_start) "Jan 2006") }}{{ end }}{{ if $e.date_end }} — {{ (time.Format (time.Parse "2006-01-02" $e.date_end) "Jan 2006") }}{{ end }}</div>
+  {{- $start := "" -}}
+  {{- $end := "Present" -}}
+  {{- if $e.date_start }}{{ $start = time.Format "Jan 2006" $e.date_start }}{{ end -}}
+  {{- if $e.date_end }}{{ $end = time.Format "Jan 2006" $e.date_end }}{{ end -}}
+  {{- $logo := "" -}}
+  {{- with $e.company_logo -}}
+    {{- if hasPrefix "/" . -}}
+      {{- $logo = . -}}
+    {{- else -}}
+      {{- $logo = printf "/media/icons/brands/%s.svg" . -}}
+    {{- end -}}
+  {{- end -}}
+  <article class="timeline-item{{ if eq $i 0 }} is-current{{ end }}">
+    <div class="timeline-marker" aria-hidden="true">
+      {{- if $logo -}}
+        <img src="{{ $logo }}" alt="" loading="lazy">
+      {{- else -}}
+        <span>{{ substr $e.company 0 1 }}</span>
+      {{- end -}}
+    </div>
     <div class="timeline-card">
-      <h4 class="timeline-title">{{ $e.title }}</h4>
-      <div class="timeline-meta">
-        <span class="timeline-company">{{ $e.company }}</span>
-        {{ if $e.location }} · <span class="timeline-location">{{ $e.location }}</span>{{ end }}
+      <div class="timeline-card-head">
+        <div>
+          <h4 class="timeline-title">{{ $e.title }}</h4>
+          <div class="timeline-meta">
+            {{- if $e.company_url -}}
+              <a class="timeline-company" href="{{ $e.company_url }}" target="_blank" rel="noopener">{{ $e.company }}</a>
+            {{- else -}}
+              <span class="timeline-company">{{ $e.company }}</span>
+            {{- end -}}
+            {{ if $e.location }}<span class="timeline-location">{{ $e.location }}</span>{{ end }}
+          </div>
+        </div>
+        <time class="timeline-date">{{ $start }}{{ if $start }} - {{ end }}{{ $end }}</time>
       </div>
-      <p class="timeline-desc">{{ $e.description }}</p>
+      <div class="timeline-desc">{{ $e.description | markdownify }}</div>
     </div>
   </article>
   {{- end -}}
 </div>
-
-<style>
-.experience-timeline{position:relative;padding:1rem 0 2rem}
-.experience-timeline .timeline-line{position:absolute;left:40px;top:0;bottom:0;width:2px;background:linear-gradient(#dbeafe,#bfdbfe);border-radius:2px}
-.experience-timeline .timeline-item{display:flex;align-items:flex-start;margin:1rem 0;padding-left:72px;position:relative}
-.experience-timeline .timeline-item:before{content:"";position:absolute;left:34px;top:8px;width:12px;height:12px;background:#2563eb;border-radius:3px;border:4px solid #fff;box-shadow:0 2px 6px rgba(37,99,235,0.12)}
-.experience-timeline .timeline-item-date{position:absolute;left: -0.5rem; width:80px; text-align:right; color:#475569; font-weight:600; font-size:0.9rem}
-.timeline-card{background:#fff;border-radius:8px;padding:0.8rem 1rem;box-shadow:0 8px 24px rgba(15,23,42,0.06);border:1px solid rgba(15,23,42,0.03);max-width:820px}
-.timeline-title{margin:0 0 0.25rem;font-size:1.05rem}
-.timeline-meta{color:#64748b;font-size:0.9rem;margin-bottom:0.5rem}
-.timeline-desc{margin:0;color:#334155}
-@media (max-width:720px){.experience-timeline .timeline-item{padding-left:56px}.experience-timeline .timeline-line{left:28px}.experience-timeline .timeline-item:before{left:22px}.experience-timeline .timeline-item-date{display:none}}
-</style>
