@@ -1,5 +1,6 @@
 ---
 title: Chunzheng Zhu
+name_pronunciation: 朱纯正
 role: Ph.D. Student
 bio:
 interests:
