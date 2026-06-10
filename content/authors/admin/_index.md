@@ -18,9 +18,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=HsJamBgAAAAJ&hl=zh-CN
-  - icon: linkedin
+  - icon: weixin
     icon_pack: fab
-    link: https://www.linkedin.com/in/chunzheng-zhu-938593298/
+    link: 'weixin://zhchzh183'
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf
