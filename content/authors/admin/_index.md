@@ -3,9 +3,10 @@ title: Chunzheng Zhu
 role: Ph.D. Student
 bio:
 interests:
-  - Medical Multimodal Large Language Models
-  - Fetal Ultrasound AI-assisted Diagnosis
+  - Multimodal Large Language Models
+  - Reinforcement Learning
   - Medical Image Analysis
+  - Fetal Ultrasound AI-assisted Diagnosis
   - Image Quality Assessment
   - Brain-Computer Interface
 social:
