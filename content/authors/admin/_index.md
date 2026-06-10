@@ -44,7 +44,7 @@ highlight_name: true
 
 I am a Ph.D. student in Computer Science and Technology at Hunan University. My research focuses on multimodal large language models, fetal ultrasound AI-assisted diagnosis, medical image analysis, image quality assessment, and brain-computer interfaces.
 
-<p class="bio-opportunity-callout">I am currently seeking internship and full-time opportunities in agentic AI and reinforcement learning.</p>
+<p class="bio-opportunity-callout">I am currently seeking internship and 2027-year graduate full-time opportunities in agentic AI and reinforcement learning. Please feel free to reach out if you have relevant openings or opportunities, or if you would like to discuss potential collaborations.</p>
 
 
 <!-- WeChat modal (hidden by default) -->
