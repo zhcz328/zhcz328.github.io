@@ -42,26 +42,6 @@ experience:
     description: |
       Large classification models, disease detection, self-supervised learning, continual learning, medical multimodal large language models.
 
-  - title: Ph.D. Student
-    company: Hunan University
-    company_url: 'https://www.hnu.edu.cn/'
-    company_logo:
-    location: Changsha, China
-    date_start: '2022-09-01'
-    date_end: ''
-    description: |
-      Research focuses on fetal ultrasound AI-assisted diagnosis and medical multimodal large language models.
-
-  - title: Undergraduate Student
-    company: Minzu University of China
-    company_url: ''
-    company_logo:
-    location: Beijing, China
-    date_start: '2018-09-01'
-    date_end: '2022-06-30'
-    description: |
-      Major in Data Science and Big Data Technology.
-
 design:
   columns: '2'
 ---
