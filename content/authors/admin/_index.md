@@ -44,9 +44,11 @@ highlight_name: true
 
 I am a Ph.D. student in Computer Science and Technology at Hunan University. My research focuses on multimodal large language models, fetal ultrasound AI-assisted diagnosis, medical image analysis, image quality assessment, and brain-computer interfaces.
 
+<p class="bio-opportunity-callout">I am currently seeking internship and full-time opportunities in agentic AI and reinforcement learning.</p>
+
 
 <!-- WeChat modal (hidden by default) -->
-<div id="wechat-modal" style="display:none;position:fixed;inset:0;z-index:2000;align-items:center;justify-content:center;"> 
+<div id="wechat-modal" style="display:none;position:fixed;inset:0;z-index:2000;align-items:center;justify-content:center;">
   <div id="wechat-modal-backdrop" style="position:fixed;inset:0;background:rgba(0,0,0,0.5);"></div>
   <div style="position:relative;max-width:360px;width:90%;margin:0 auto;background:#fff;border-radius:10px;padding:1rem;box-shadow:0 6px 30px rgba(0,0,0,0.2);z-index:2001;text-align:center;">
     <button id="wechat-modal-close" aria-label="Close" style="position:absolute;right:8px;top:8px;background:none;border:none;font-size:1.2rem;cursor:pointer;">✕</button>

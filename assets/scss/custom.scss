@@ -37,6 +37,24 @@ body {
     box-shadow: 0 2px 6px rgba(0,0,0,0.12);
 }
 
+.bio-opportunity-callout {
+    display: inline-block;
+    margin: 0.9rem 0 0;
+    padding: 0.55rem 0.8rem;
+    border-radius: 8px;
+    background: linear-gradient(135deg, rgba(48, 127, 244, 0.14), rgba(112, 221, 212, 0.16));
+    border: 1px solid rgba(48, 127, 244, 0.22);
+    color: #1d4f91;
+    font-weight: 600;
+    line-height: 1.45;
+}
+
+.dark .bio-opportunity-callout {
+    background: linear-gradient(135deg, rgba(48, 127, 244, 0.22), rgba(112, 221, 212, 0.18));
+    border-color: rgba(112, 221, 212, 0.28);
+    color: #bfefff;
+}
+
 /* Experience section */
 .experience-timeline {
     position: relative;
