@@ -7,10 +7,8 @@
   {{- if $e.date_end }}{{ $end = time.Format "Jan 2006" $e.date_end }}{{ end -}}
   {{- $logo := "" -}}
   {{- with $e.company_logo -}}
-    {{- if hasPrefix "/" . -}}
+    {{- if in . "." -}}
       {{- $logo = . | relURL -}}
-    {{- else if in . "." -}}
-      {{- $logo = printf "/%s" . | relURL -}}
     {{- else -}}
       {{- $logo = printf "/media/icons/brands/%s.svg" . | relURL -}}
     {{- end -}}
