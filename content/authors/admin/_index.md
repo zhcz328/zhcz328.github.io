@@ -43,7 +43,7 @@ superuser: true
 highlight_name: true
 ---
 
-I am a Ph.D. student in Computer Science and Technology at Hunan University. My research focuses on fetal ultrasound AI-assisted diagnosis, medical multimodal large language models, medical image analysis, image quality assessment, and brain-computer interfaces.
+I am a Ph.D. student in Computer Science and Technology at Hunan University. My research focuses on multimodal large language models, fetal ultrasound AI-assisted diagnosis, medical image analysis, image quality assessment, and brain-computer interfaces.
 
 
 <!-- WeChat modal (hidden by default) -->
