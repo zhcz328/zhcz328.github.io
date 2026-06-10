@@ -56,7 +56,11 @@ body {
 }
 
 #about > .container {
-    transform: translateY(-0.7rem);
+    transform: translateY(-0.45rem);
+}
+
+#about .section-heading {
+    margin-bottom: 1.35rem;
 }
 
 /* Experience section */
@@ -65,8 +69,8 @@ body {
     display: grid;
     gap: 1rem;
     max-width: 920px;
-    margin: 0 auto;
-    transform: translateY(-0.7rem);
+    margin: 1.15rem auto 0;
+    transform: translateY(-0.45rem);
 }
 
 .experience-timeline::before {
@@ -221,12 +225,17 @@ body {
 
 @media (max-width: 720px) {
     #about > .container {
-        transform: translateY(-0.4rem);
+        transform: translateY(-0.25rem);
+    }
+
+    #about .section-heading {
+        margin-bottom: 1rem;
     }
 
     .experience-timeline {
         gap: .9rem;
-        transform: translateY(-0.4rem);
+        margin-top: .9rem;
+        transform: translateY(-0.25rem);
     }
 
     .experience-timeline::before {
