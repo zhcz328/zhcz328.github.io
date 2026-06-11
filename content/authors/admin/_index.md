@@ -3,6 +3,7 @@ title: Chunzheng Zhu
 role: Ph.D. Student
 bio:
 interests:
+  - AI Agents
   - Multimodal Large Language Models
   - Reinforcement Learning
   - Medical Image Analysis
@@ -42,7 +43,7 @@ superuser: true
 highlight_name: true
 ---
 
-I am a Ph.D. student in Computer Science and Technology at Hunan University. My research focuses on multimodal large language models, fetal ultrasound AI-assisted diagnosis, medical image analysis, im[...]
+I am a Ph.D. student in Computer Science and Technology at Hunan University. My research focuses on AI agents, multimodal large language models, reinforcement learning, medical image analysis, and brain-computer interfaces.
 
 <p class="bio-opportunity-callout">Expected PhD graduation: June 2027. I am open to roles in industry and academic positions, including postdoctoral fellowships. Welcome to reach out for opportunities and collaborations.</p>
 
