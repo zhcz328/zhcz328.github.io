@@ -30,7 +30,7 @@ links:
   url: https://arxiv.org/abs/2604.26283
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/zhcz328/MedSynapse-V'
 url_dataset: ''
 url_poster: ''
 url_project: ''
