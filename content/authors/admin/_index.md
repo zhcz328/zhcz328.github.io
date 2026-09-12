@@ -1,14 +1,13 @@
 ---
 title: Chunzheng Zhu
-role: Ph.D. Student
+role: Ph.D. Candidate | Research Intern at ByteDance
 bio:
 interests:
-  - AI Agents
   - Multimodal Large Language Models
-  - Reinforcement Learning
-  - Medical Image Analysis
-  - Image Quality Assessment
-  - Brain-Computer Interface
+  - Agentic Reinforcement Learning
+  - Representation Learning
+  - Medical AI
+  - Computer Vision
 social:
   - icon: envelope
     icon_pack: fas
@@ -43,7 +42,7 @@ superuser: true
 highlight_name: true
 ---
 
-I am a Ph.D. student in Computer Science and Technology at Hunan University. My research focuses on AI agents, multimodal large language models, reinforcement learning, medical image analysis, and brain-computer interfaces.
+I am a Ph.D. candidate in Computer Science and Technology at Hunan University and a Research Intern at ByteDance. My research focuses on multimodal large language models, agentic reinforcement learning, representation learning, and medical AI. I develop efficient and trustworthy multimodal systems through post training, long horizon data synthesis, visual token compression, and reasoning oriented evaluation.
 
 <p class="bio-opportunity-callout">Expected PhD graduation: June 2027. I am open to roles in industry and academic positions, including postdoctoral fellowships. Welcome to reach out for opportunities and collaborations.</p>
 
@@ -54,7 +53,7 @@ I am a Ph.D. student in Computer Science and Technology at Hunan University. My 
   <div style="position:relative;max-width:360px;width:90%;margin:0 auto;background:#fff;border-radius:10px;padding:1rem;box-shadow:0 6px 30px rgba(0,0,0,0.2);z-index:2001;text-align:center;">
     <button id="wechat-modal-close" aria-label="Close" style="position:absolute;right:8px;top:8px;background:none;border:none;font-size:1.2rem;cursor:pointer;">✕</button>
     <h3 style="margin-top:0.2rem;">WeChat</h3>
-    <p style="color:#555;margin:0.25rem 0 0.75rem;">扫码添加我为微信好友，或手动添加：<strong>zhchzh183</strong></p>
+    <p style="color:#555;margin:0.25rem 0 0.75rem;">Scan to connect on WeChat, or add me by ID: <strong>18397345180</strong></p>
     <img src="/uploads/wechat_qr.png" alt="WeChat QR" style="max-width:260px;width:70%;height:auto;border-radius:8px;box-shadow:0 2px 10px rgba(0,0,0,0.12);" />
   </div>
 </div>
@@ -93,4 +92,3 @@ I am a Ph.D. student in Computer Science and Technology at Hunan University. My 
   });
 })();
 </script>
-

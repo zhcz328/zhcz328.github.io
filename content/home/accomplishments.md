@@ -91,7 +91,7 @@ item:
   description: ""
   organization: China Computer Design Competition
   organization_url: ""
-  title: Second Prize, Beijing Division, China Computer Design Competition
+  title: National Second Prize, China Computer Design Competition
   url: ""
 - certificate_url:
   date_end: ""
@@ -99,7 +99,7 @@ item:
   description: ""
   organization: Contemporary Undergraduate Mathematical Contest in Modeling
   organization_url: ""
-  title: Second Prize, Beijing Division, CUMCM
+  title: First Prize, Beijing Division, CUMCM
   url: ""
 - certificate_url:
   date_end: ""

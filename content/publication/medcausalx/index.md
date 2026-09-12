@@ -1,5 +1,5 @@
 ---
-title: "MedCausalX: Adaptive Causal Reasoning with Self-Reflection for Trustworthy Medical Vision-Language Models"
+title: "When Models Learn to Ask Why: Adaptive Causal Reasoning for Trustworthy Medical Vision-Language Models"
 authors:
 - 'Jianxin Lin†'
 - 'Chunzheng Zhu†'
@@ -30,7 +30,7 @@ links:
   url: https://arxiv.org/abs/2603.23085
 
 url_pdf: ''
-url_code: ''
+url_code: 'https://github.com/zhcz328/MedCausalX'
 url_dataset: ''
 url_poster: ''
 url_project: ''
