@@ -1,6 +1,6 @@
 ---
 title: Chunzheng Zhu
-role: Ph.D. Candidate | Research Intern at ByteDance
+role: Ph.D. Candidate
 bio:
 interests:
   - Multimodal Large Language Models
