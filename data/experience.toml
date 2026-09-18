@@ -6,7 +6,7 @@ company_logo = "uploads/2222.png"
 location = ""
 date_start = "2026-03-01"
 date_end = ""
-description = "Research on post training for native multimodal large language models, biomedical mid training, capability optimization, and evaluation. Developed efficient visual token compression methods and built pipelines for heterogeneous biomedical data integration and long horizon reasoning data synthesis."
+description = "Research on post-training for native multimodal large language models, biomedical mid-training, capability optimization, and evaluation. Built pipelines for heterogeneous biomedical data integration and biomedical mid-training, and applied reinforcement learning to improve multi-step reasoning over longitudinal biomedical data."
 
 [[experience]]
 title = "Student Researcher"
