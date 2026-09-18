@@ -42,7 +42,7 @@ superuser: true
 highlight_name: true
 ---
 
-I am a Ph.D. candidate in Computer Science and Technology at Hunan University and a Research Intern at ByteDance. My research focuses on multimodal large language models, agentic reinforcement learning, representation learning, and medical AI. I develop efficient and trustworthy multimodal systems through post training, long horizon data synthesis, and reasoning oriented evaluation.
+I am a Ph.D. candidate in Computer Science and Technology at Hunan University and a Research Intern at ByteDance. My research focuses on multimodal large language models, agentic reinforcement learning, representation learning, and medical AI. I aim to develop efficient and trustworthy reasoning systems through post-training and rigorous evaluation.
 
 <p class="bio-opportunity-callout">Expected PhD graduation: June 2027.</p>
 
