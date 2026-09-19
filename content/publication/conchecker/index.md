@@ -2,7 +2,7 @@
 title: "Trustworthy Medical Concept Recalibration through Logic-Aware Multimodal Evidence Fusion"
 authors:
 - Lei Zhao
-- 'Chunzheng Zhu✟'
+- 'Chunzheng Zhu†'
 - Zhan Gao
 - Pengchen Liang
 - Xiaoyun Liang
@@ -40,7 +40,7 @@ url_source: ''
 url_video: ''
 
 image:
-  caption: '✟ Corresponding author.'
+  caption: '† Corresponding author.'
   focal_point: Smart
   preview_only: false
 ---
