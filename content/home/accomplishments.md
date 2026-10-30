@@ -23,6 +23,22 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
+  date_start: "2026-01-01"
+  description: ""
+  organization: Hunan University
+  organization_url: https://www.hnu.edu.cn/
+  title: "National Scholarship, 2026"
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2026-01-01"
+  description: "湖南大学计算机学院研究生标兵"
+  organization: College of Computer Science and Electronic Engineering, Hunan University
+  organization_url: https://www.hnu.edu.cn/
+  title: "Graduate Student Role Model, Hunan University, 2026"
+  url: ""
+- certificate_url:
+  date_end: ""
   date_start: "2025-01-01"
   description: "Global-leading AI + ultrasound technology solution."
   organization: Challenge Cup
