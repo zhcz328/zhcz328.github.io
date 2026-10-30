@@ -32,11 +32,11 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2026-01-01"
-  description: "湖南大学计算机学院研究生标兵"
+  description: "Recognized as a Graduate Student Role Model by the College of Computer Science and Electronic Engineering, Hunan University."
   organization: College of Computer Science and Electronic Engineering, Hunan University
   organization_url: https://www.hnu.edu.cn/
   title: "Graduate Student Role Model, Hunan University, 2026"
-  url: ""
+  url: "https://csee.hnu.edu.cn/info/1062/14256.htm"
 - certificate_url:
   date_end: ""
   date_start: "2025-01-01"
