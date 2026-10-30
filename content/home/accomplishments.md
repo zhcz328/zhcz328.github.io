@@ -23,7 +23,7 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
-  date_start: "2026-01-01"
+  date_start: "2026-09-01"
   description: ""
   organization: Hunan University
   organization_url: https://www.hnu.edu.cn/
@@ -31,7 +31,7 @@ item:
   url: ""
 - certificate_url:
   date_end: ""
-  date_start: "2026-01-01"
+  date_start: "2026-09-01"
   description: "Recognized as a Graduate Student Role Model by the College of Computer Science and Electronic Engineering, Hunan University."
   organization: College of Computer Science and Electronic Engineering, Hunan University
   organization_url: https://www.hnu.edu.cn/
