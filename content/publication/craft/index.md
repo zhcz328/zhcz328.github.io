@@ -27,9 +27,11 @@ tags:
 
 featured: true
 
-links: []
+links:
+- name: Paper
+  url: https://arxiv.org/abs/2609.38810
 
-url_pdf: 'paper.pdf'
+url_pdf: 'https://arxiv.org/pdf/2609.38810'
 url_code: 'https://anonymous.4open.science/r/CRAFT-B3CA'
 url_dataset: ''
 url_poster: ''

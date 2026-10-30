@@ -25,9 +25,11 @@ tags:
 
 featured: true
 
-links: []
+links:
+- name: Paper
+  url: https://arxiv.org/abs/2610.24005
 
-url_pdf: 'paper.pdf'
+url_pdf: 'https://arxiv.org/pdf/2610.24005'
 url_code: ''
 url_dataset: ''
 url_poster: ''
